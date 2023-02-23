@@ -7,6 +7,7 @@ Please read the following blog post for advanced instructions:
 ## Run the app locally
 
 - Run from a terminal: `docker-compose up` 
+- Leave the cds-dbm version at 0.0.27
 - Run from a terminal `npm i` 
 - Create a default-env.json file in the root of the project and insert the following content:
 
